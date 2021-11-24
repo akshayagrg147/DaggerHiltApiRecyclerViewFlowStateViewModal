@@ -1,4 +1,4 @@
-package com.example.demo.di
+package com.meetSuccess.FoodResturant.di
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

@@ -1,9 +1,9 @@
-package com.example.demo.ViewModel
+package com.meetSuccess.FoodResturant.ViewModel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.demo.Repository.MainRepository
-import com.example.demo.Util.ApiState
+import com.meetSuccess.FoodResturant.Repository.MainRepository
+import com.meetSuccess.FoodResturant.Util.ApiState
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

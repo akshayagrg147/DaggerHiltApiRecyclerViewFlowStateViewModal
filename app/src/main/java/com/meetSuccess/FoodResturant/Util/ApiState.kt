@@ -1,6 +1,6 @@
-package com.example.demo.Util
+package com.meetSuccess.FoodResturant.Util
 
-import com.example.demo.Model.Post
+import com.meetSuccess.FoodResturant.Model.Post
 
 sealed class ApiState{
     object Loading : ApiState()

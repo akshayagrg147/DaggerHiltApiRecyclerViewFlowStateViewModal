@@ -1,11 +1,11 @@
-package com.example.demo.Adapter
+package com.meetSuccess.FoodResturant.Adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.demo.Model.Post
-import com.example.demo.databinding.EachRowBinding
+import com.meetSuccess.FoodResturant.Model.Post
+import com.meetSuccess.FoodResturant.databinding.EachRowBinding
 
 class PostAdapter(private var postList: List<Post>)
     : RecyclerView.Adapter<PostAdapter.PostViewHolder>() {

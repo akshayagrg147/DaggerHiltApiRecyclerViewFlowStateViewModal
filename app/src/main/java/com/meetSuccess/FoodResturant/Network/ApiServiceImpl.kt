@@ -1,6 +1,6 @@
-package com.example.demo.Network
+package com.meetSuccess.FoodResturant.Network
 
-import com.example.demo.Model.Post
+import com.meetSuccess.FoodResturant.Model.Post
 import javax.inject.Inject
 
 class ApiServiceImpl @Inject constructor(private val apiService: ApiService) {

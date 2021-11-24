@@ -1,4 +1,4 @@
-package com.example.demo
+package com.meetSuccess.FoodResturant
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,10 +7,10 @@ import androidx.activity.viewModels
 import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.demo.Adapter.PostAdapter
-import com.example.demo.Util.ApiState
-import com.example.demo.ViewModel.MainViewModel
-import com.example.demo.databinding.ActivityMainBinding
+import com.meetSuccess.FoodResturant.Adapter.PostAdapter
+import com.meetSuccess.FoodResturant.Util.ApiState
+import com.meetSuccess.FoodResturant.ViewModel.MainViewModel
+import com.meetSuccess.FoodResturant.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.collect
 

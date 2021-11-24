@@ -1,6 +1,6 @@
-package com.example.demo.di
+package com.meetSuccess.FoodResturant.di
 
-import com.example.demo.Network.ApiService
+import com.meetSuccess.FoodResturant.Network.ApiService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

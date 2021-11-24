@@ -1,7 +1,7 @@
-package com.example.demo.Repository
+package com.meetSuccess.FoodResturant.Repository
 
-import com.example.demo.Model.Post
-import com.example.demo.Network.ApiServiceImpl
+import com.meetSuccess.FoodResturant.Model.Post
+import com.meetSuccess.FoodResturant.Network.ApiServiceImpl
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
